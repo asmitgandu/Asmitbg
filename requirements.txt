@@ -1,0 +1,4 @@
+Flask==2.3.2
+requests==2.31.0
+rembg==2.0.30
+Pillow==9.4.0
